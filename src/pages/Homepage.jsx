@@ -2,7 +2,7 @@ import React from "react";
 import { Hero } from "../sections/Hero";
 import Navbar from "../components/Navbar";
 import MyMission from "../sections/MyMission";
-import BeforeandAfters from "../sections/BeforeandAfters";
+import BeforeAndAfters from "../sections/BeforeAndAfters";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
@@ -13,7 +13,7 @@ const Homepage = () => {
       <div>
         <Hero />
         <MyMission />
-        <BeforeandAfters />
+        <BeforeAndAfters />
         <Contact />
         <Footer />
       </div>
